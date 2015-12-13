@@ -34,7 +34,7 @@ ReactJS is yet another way of developing Javascript applications, and feel weird
 
 ### getting started
 
-To get started, I got into creating a demo app from https://facebook.github.io/react/docs/tutorial.html and ended up something like this https://github.com/kandaraj/react-basics in less than half a day. So I suggest you to get started from here.
+To get started, I got into creating a [demo app](https://github.com/kandaraj/react-basics) from [doc](https://facebook.github.io/react/docs/tutorial.html) and ended up something like [this]() https://github.com/kandaraj/react-basics) in less than half a day. So I suggest you to get started from here.
 
 I have created a starter-template with Webpack, Webpack-dev-server which bundles up all the Javascript and transforms jsx into js. Ask me.
 
@@ -50,18 +50,12 @@ var component = React.createClass({
 });
 ```
 
-If see the above code and thinking what the F*#$k is that HTML doing in Javascript, I suggest watch this video
+If see the above code and thinking what the F*#$k is that HTML doing in Javascript, I suggest watch this [JS conf video](https://youtu.be/KVZ-P-ZI6W4?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
 
-https://youtu.be/KVZ-P-ZI6W4?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr
+Once you get a hold of the above, there's a [nice pluralsight video of ReactJS with Webpack](https://app.pluralsight.com/library/courses/build-isomorphic-app-react-flux-webpack-firebase/table-of-contents)
 
-Once you get a hold of the above, there's a nice pluralsight video of ReactJS with Webpack.
+thinking in ReactJS way and to architect an application, i found this very helpful => [thinking-in-react](https://facebook.github.io/react/docs/thinking-in-react.html)
 
-https://app.pluralsight.com/library/courses/build-isomorphic-app-react-flux-webpack-firebase/table-of-contents
+Playing around JSX? [converts jsx into js online](https://babeljs.io/repl/)
 
-thinking in ReactJS way and to architect an application, i found this very helpful.
-
-https://facebook.github.io/react/docs/thinking-in-react.html
-
-Playing around JSX? then go here - https://babeljs.io/repl/ - converts jsx into js
-
-To kick start in very quick and dirty, https://jsfiddle.net/reactjs/69z2wepo/ may be this should be a first link?
+To kick start in [very quick and dirty](https://jsfiddle.net/reactjs/69z2wepo/)
